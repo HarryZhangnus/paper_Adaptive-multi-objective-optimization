@@ -10,7 +10,7 @@ You need to:
 3. Define objective directions (maximize/minimize)
 4. Run selection to get the best solution for each sample
 
-Repository: [https://github.com/HarryZhang386/paper_Adaptive-multi-objective-optimization.git]
+Repository: [https://github.com/HarryZhangnus/paper_Adaptive-multi-objective-optimization.git]
 """
 
 import numpy as np
